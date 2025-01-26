@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AbdALrhman Alkhubi
+- 👋 Hi, I’m Abdulrahman Alkhubi
 - 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning Next.js 14
+- 🌱 I’m currently learning Next.js 15
 - 💞️ I’m looking to collaborate on Full-stack web devloping
 - 📫 How to reach me aboodalkhbe@gmail.com
 - ⚡ Fun fact: if it's work dont touch it 😂
